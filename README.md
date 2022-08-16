@@ -1,10 +1,10 @@
 ### About me
 
 Hi there 👋  
-I'm a student studying **NLP**. 
-Majoring in **Applied Statistics** and **Computer Science**.
-Currently working as an intern at **TUNiB**.
-See how I'm studying in [my velog](https://velog.io/@shkimsally)!
+I'm a student studying **NLP**.  
+Majoring in **Applied Statistics** and **Computer Science**.  
+Currently working as an intern at **TUNiB**.  
+See how I'm studying in [my velog](https://velog.io/@shkimsally)!  
 
 #### Contact
 shkimsally@gmail.com

@@ -3,7 +3,7 @@
 Hi there 👋  
 I'm a student studying **NLP**.  
 Majoring in **Applied Statistics** and **Computer Science**.  
-Currently working as an NLP engineer intern at **TUNiB**.  
+Worked as an NLP engineer intern at **TUNiB**.  
 See how I'm studying in [my velog](https://velog.io/@shkimsally)!  
 
 #### Contact
